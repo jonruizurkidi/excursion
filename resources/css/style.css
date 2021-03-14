@@ -1,0 +1,16 @@
+html {
+    background-color: black;
+    text-align: center;
+}    
+    h1 {
+    color: white;
+    font-family: verdana;
+    font-size: 50px;
+    margin: 0 auto;
+    }
+    
+    span a {
+    font-size: 16px;
+    color: Aquamarine;
+    margin: 0 auto;
+    }
